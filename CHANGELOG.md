@@ -8,6 +8,16 @@ _No notable changes since the last release._
 
 ---
 
+## v2026.6.15.0-beta -- 2026-06-15
+
+### Released
+- Published Quest App installer for WKOpenVR 2026.6.15.0-beta.
+- Installer: `WKOpenVR-QuestApp-v2026.6.15.0-beta-Setup.exe`
+- SHA256: `788030d96290aeab99b5ec59d392df2e6eae3b0cbcb3b14e9b288c8eee56b60e`
+- Release: <https://github.com/RealWhyKnot/WKOpenVR-QuestApp/releases/tag/v2026.6.15.0-beta>
+
+---
+
 ## v2026.6.14.0-beta -- 2026-06-14
 
 ### Released
